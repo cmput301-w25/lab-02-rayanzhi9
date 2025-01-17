@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">ListyCity</string>
-    <string name="delete_city_button">DELETE CITY</string>
-    <string name="add_city_button">ADD CITY</string>
-    <string name="confirm_button">CONFIRM</string>
-</resources>
